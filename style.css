@@ -1,0 +1,12 @@
+body{
+text-align: center;
+color: white;
+background: url(Image/cover.jpg) no-repeat 50% 30px;
+background-size: 1000px 1800px;
+background-attachment: fixed
+}
+
+p
+{
+text-align: left;
+}
